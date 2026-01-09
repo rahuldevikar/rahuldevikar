@@ -7,3 +7,5 @@ With over 10 years of experience in designing, building, and optimizing large-sc
 - lead contributor Maintainer at Agent 365 repositories(Github Account linked to CorpNet: https://github.com/rahuldevikar761)
 - Contributor to virtualenv, pip. Targeting more core packages building expertise.
 - PSF Member
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuldevikar&show_icons=true)
