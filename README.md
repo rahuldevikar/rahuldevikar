@@ -1,6 +1,6 @@
 # Rahul Devikar – Senior Software Engineer at Microsoft
 
-With over 10 years of experience in designing, building, and optimizing large-scale AI platforms, distributed systems, and cloud-native solutions, I specialize in delivering secure, scalable, and high-impact software. My work spans AI-driven innovations, enterprise system design, and cloud architecture, with notable contributions to Microsoft 365 Copilot, Salesforce connectors, and large-scale data integrations.
+With over 10 years of experience in designing, building, and optimizing large-scale AI platforms, distributed systems, and cloud-native solutions, I specialize in delivering secure, scalable, and high-impact software. My work spans AI-driven innovations, enterprise system design, and cloud architecture, with notable contributions to Microsoft Agent 365, Microsoft 365 Copilot, Knowledge connectors, and large-scale data integrations.
 
 ---
 
