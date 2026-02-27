@@ -6,5 +6,5 @@ With over 10 years of experience in designing, building, and optimizing large-sc
 
 ## 🚀 **Currently Serving**
 - lead contributor and maintainer at Agent 365 repositories(Github Account linked to CorpNet: https://github.com/rahuldevikar761)
-- Contributor to virtualenv, pip. Targeting more core packages building expertise.
+- Contributor to virtualenv, pip, tox. Targeting more core packages building expertise.
 - PSF Member
