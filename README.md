@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Devikar
 
-**Senior Software Engineer at Microsoft · Co-maintainer of [tox](https://github.com/tox-dev/tox) & [python-discovery](https://github.com/tox-dev/python-discovery) · Contributor to [virtualenv](https://github.com/pypa/virtualenv)**
+**Senior Software Engineer at Microsoft · Co-maintainer of [tox](https://github.com/tox-dev/tox), [python-discovery](https://github.com/tox-dev/python-discovery) and [virtualenv](https://github.com/pypa/virtualenv)**
 
 I build developer tools used by millions. My work spans open-source Python infrastructure, AI agent platforms, and embedded systems — from 3D printing software to Microsoft's enterprise cloud.
 
